@@ -1,11 +1,13 @@
 # W&B and data
 wandb/
-kaggle/
-data/
+kaggle/*
+!kaggle/.gitkeep
+data/*
+!data/.gitkeep
 
 # models
-models/
-
+models/*
+!models/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
