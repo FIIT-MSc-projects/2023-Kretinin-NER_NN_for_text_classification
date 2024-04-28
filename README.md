@@ -4,7 +4,7 @@ Mykyta's Msc project FIIT STU Bratislava, NER and Topic modeling
 
 ## Registration number of work in the information system
 
-FIIT-xxxx-xxxxxx
+FIIT-182905-105326
 
 ## MSc task
 
